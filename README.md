@@ -30,11 +30,11 @@ Insights into my GitHub activity, contributions, and profile stats. Explore my o
 
 
 
-> ## Repositories per Language Overview: 
-Visualizing repository distribution by programming languages. Explore my diverse coding projects categorized by language.
+## Repositories per Language Overview and Commits: 
+Visualizing repository distribution by programming languages and commits.
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminul157246&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminul157246&theme=tokyonight)                      ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminul157246&theme=tokyonight&utcOffset=8)
 
 
 > ## 🌐 Aspiring Web Developer
