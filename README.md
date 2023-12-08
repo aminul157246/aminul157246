@@ -1,7 +1,6 @@
 ### 
 
-![Albuquerque, New Mexico](/assets/images/albuquerque.jpg)
-*A single track trail outside of Albuquerque, New Mexico.*
+![Albuquerque, New Mexico](/images/banners.png)
 
 ## Proficiencies : 
 Proficient in HTML, CSS, JavaScript, React, Tailwind, MongoDB, and Next.js(basic). Building modern web applications with a focus on user-centric design and efficient backend integration.
