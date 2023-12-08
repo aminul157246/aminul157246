@@ -1,18 +1,50 @@
 ### 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aminul157246&theme=nightfox)](https://git.io/streak-stats)
+![Albuquerque, New Mexico](/assets/images/albuquerque.jpg)
+*A single track trail outside of Albuquerque, New Mexico.*
 
-<!--
-**aminul157246/aminul157246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Proficiencies : 
+Proficient in HTML, CSS, JavaScript, React, Tailwind, MongoDB, and Next.js(basic). Building modern web applications with a focus on user-centric design and efficient backend integration.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,nextjs,mongodb)](https://skillicons.dev)
+
+
+
+## GitHub Contribution Streak:
+Tracking my daily GitHub contributions and streaks. Visualizing continuous coding efforts and commitment.
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aminul157246&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
+
+
+
+## GitHub Profile Summary : 
+Insights into my GitHub activity, contributions, and profile stats. Explore my open-source journey and coding activity.
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminul157246&theme=tokyonight)
+
+
+
+## Repositories per Language Overview: 
+Visualizing repository distribution by programming languages. Explore my diverse coding projects categorized by language.
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminul157246&theme=tokyonight)
+
+
+## 🌐 Aspiring Web Developer
+
+
+- 🔭 I’m currently working on ...   building my career as a Web Developer 
+- 🌱 I’m currently learning ...   react,nodejs, 
+- 👯 I’m looking to collaborate on ...    projects involving HTML, CSS, and JavaScript. Eager to contribute to frontend design and development.
+- 🤔 I’m looking for help with ...   understanding advanced React.js concepts. Seeking guidance or resources on state management and advanced component patterns.
+- 💬 Ask me about ...    getting started with React.js! I can assist with basic concepts, component creation, and state management.
+- 📫 How to reach me: Gmail : aminul.islam.157246@gamil.com, Phone : <ins>01761743556 </ins>
+- ⚡ Fun fact: ...  I'm always curious and enjoy learning!
+
