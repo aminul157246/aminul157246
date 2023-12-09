@@ -1,9 +1,9 @@
-### 
+# Hi 👋, I'm Aminul Islam
+  > ### A passionate React Developer 
 
-![Albuquerque, New Mexico](/assets/images/albuquerque.jpg)
-*A single track trail outside of Albuquerque, New Mexico.*
+![Albuquerque, New Mexico](/images/banners.png)
 
-## Proficiencies : 
+> ## Proficiencies : 
 Proficient in HTML, CSS, JavaScript, React, Tailwind, MongoDB, and Next.js(basic). Building modern web applications with a focus on user-centric design and efficient backend integration.
 
 
@@ -11,7 +11,7 @@ Proficient in HTML, CSS, JavaScript, React, Tailwind, MongoDB, and Next.js(basic
 
 
 
-## GitHub Contribution Streak:
+> ## GitHub Contribution Streak:
 Tracking my daily GitHub contributions and streaks. Visualizing continuous coding efforts and commitment.
 
 
@@ -22,22 +22,18 @@ Tracking my daily GitHub contributions and streaks. Visualizing continuous codin
 
 
 
-## GitHub Profile Summary : 
+> ## GitHub Profile Summary : 
 Insights into my GitHub activity, contributions, and profile stats. Explore my open-source journey and coding activity.
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminul157246&theme=tokyonight)
 
 
-
-## Repositories per Language Overview: 
-Visualizing repository distribution by programming languages. Explore my diverse coding projects categorized by language.
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminul157246&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminul157246&theme=tokyonight)       ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminul157246&theme=tokyonight)              
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminul157246&theme=tokyonight&utcOffset=8)   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aminul157246&theme=tokyonight)
 
 
-## 🌐 Aspiring Web Developer
+> ## 🌐 Aspiring Web Developer
 
 
 - 🔭 I’m currently working on ...   building my career as a Web Developer 
