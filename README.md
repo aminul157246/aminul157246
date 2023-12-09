@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aminul Islam
   > ### A passionate React Developer 
 
-![Albuquerque, New Mexico](/images/banners.png)
+![Albuquerque, New Mexico](/images/githubBanner.png)
 
 > ## Proficiencies : 
 Proficient in HTML, CSS, JavaScript, React, Tailwind, MongoDB, and Next.js(basic). Building modern web applications with a focus on user-centric design and efficient backend integration.
