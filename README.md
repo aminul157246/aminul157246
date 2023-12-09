@@ -39,11 +39,18 @@ Insights into my GitHub activity, contributions, and profile stats. Explore my o
 > ## 🌐 Aspiring Web Developer
 
 
-- 🔭 I’m currently working on ...   building my career as a Web Developer 
-- 🌱 I’m currently learning ...   react,nodejs, 
+- 🔭 I’m currently working on ...   building my career as a Web Developer
+
+- 🌱 I’m currently learning ...   react,nodejs,
+
 - 👯 I’m looking to collaborate on ...    projects involving HTML, CSS, and JavaScript. Eager to contribute to frontend design and development.
+ 
 - 🤔 I’m looking for help with ...   understanding advanced React.js concepts. Seeking guidance or resources on state management and advanced component patterns.
+ 
 - 💬 Ask me about ...    getting started with React.js! I can assist with basic concepts, component creation, and state management.
+  
 - 📫 How to reach me: Gmail : aminul.islam.157246@gamil.com, Phone : <ins>01761743556 </ins>
+
 - ⚡ Fun fact: ...  I'm always curious and enjoy learning!
+  
 
