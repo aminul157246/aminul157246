@@ -1,5 +1,5 @@
 # Hi 👋, I'm Aminul Islam
-  > ### A passionate React Developer 
+  > ### A passionate Front-end Developer 
 
 ![Albuquerque, New Mexico](/images/githubBanner.png)
 
