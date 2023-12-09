@@ -3,6 +3,9 @@
 
 ![Albuquerque, New Mexico](/images/githubBanner.png)
 
+> ## About Me :
+> Greetings! I'm Aminul Islam, a passionate frontend developer dedicated to creating immersive digital experiences. With a foundation in HTML, CSS, and JavaScript, I've evolved into a React.js enthusiast, wielding its power to craft sleek and interactive user interfaces.
+
 > ## Proficiencies : 
 Proficient in HTML, CSS, JavaScript, React, Tailwind, MongoDB, and Next.js(basic). Building modern web applications with a focus on user-centric design and efficient backend integration.
 
