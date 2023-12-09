@@ -29,12 +29,8 @@ Insights into my GitHub activity, contributions, and profile stats. Explore my o
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminul157246&theme=tokyonight)
 
 
-
-## Repositories per Language Overview and Commits: 
-Visualizing repository distribution by programming languages and commits.
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminul157246&theme=tokyonight)                      ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminul157246&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminul157246&theme=tokyonight)       ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminul157246&theme=tokyonight)              
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminul157246&theme=tokyonight&utcOffset=8)   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aminul157246&theme=tokyonight)
 
 
 > ## 🌐 Aspiring Web Developer
