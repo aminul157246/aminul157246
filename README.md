@@ -10,7 +10,7 @@
 Proficient in HTML, CSS, JavaScript, React, Tailwind, MongoDB, and Node.js(basic). Building modern web applications with a focus on user-centric design and efficient backend integration.
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,nodejs,netlify,vite,vercelmongodb,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,nodejs,netlify,vite,vercel,mongodb,typescript)](https://skillicons.dev)
 
 
 
